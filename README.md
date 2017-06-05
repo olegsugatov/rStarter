@@ -3,9 +3,10 @@
 ```npm
 npm run dev
 ```
-[+watch -minified] 
+
++watch -minified 
 
 ```npm
 npm run prod
 ```
-[+watch -minified] 
++watch -minified 
