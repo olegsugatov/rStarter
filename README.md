@@ -10,3 +10,10 @@ npm run dev
 npm run prod
 ```
 +watch -minified 
+
+
+Tasks
+---------
+
+- [ ] add prod build
+- [ ] add rComponents
